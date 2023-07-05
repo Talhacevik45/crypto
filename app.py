@@ -10,10 +10,10 @@ def main():
 
     # Kullanıcıdan giriş bilgilerini alalım
     api_key = st.text_input(
-        "KmV4kxWv9JpFVQGd2bzcXZqCDsxDfFgLi7FbtOPt7P1Zx2x1gA6wRFlMp4lpawqs"
+        "yCqPvk02Cj7sp2wuAm1GCKzu9Hv1aqlKsnQT1WamSbIBpTweKX8bBBX69sGfZlBt"
     )
     api_secret = st.text_input(
-        "d1vkFk1XLedBLB4uJldr0rPVwn2eGA9DWvd0oTdl9K5nmwOAOHJcKKAtbTJZioWq"
+        "AgUGYXGJnpT2ht2ak0C6F91JmYtYXHWDJItc9tV9qgGlteDAjNbndxyMPSHfa9Kz"
     )
 
     # Trader objesi oluşturalım
