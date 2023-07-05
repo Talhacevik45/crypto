@@ -525,8 +525,8 @@ import time
 # In[38]:
 
 
-api_key = "KmV4kxWv9JpFVQGd2bzcXZqCDsxDfFgLi7FbtOPt7P1Zx2x1gA6wRFlMp4lpawqs"
-secret_key = "d1vkFk1XLedBLB4uJldr0rPVwn2eGA9DWvd0oTdl9K5nmwOAOHJcKKAtbTJZioWq"
+api_key = "yCqPvk02Cj7sp2wuAm1GCKzu9Hv1aqlKsnQT1WamSbIBpTweKX8bBBX69sGfZlBt"
+secret_key = "AgUGYXGJnpT2ht2ak0C6F91JmYtYXHWDJItc9tV9qgGlteDAjNbndxyMPSHfa9Kz"
 
 
 # In[39]:
